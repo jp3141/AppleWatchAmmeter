@@ -13,4 +13,4 @@ The Earth's background magnetic field is around 60 uT (not only in a North-South
 
 <img width="483" alt="Watch Ammeter" src="https://github.com/user-attachments/assets/7a0e5de4-8679-49e0-82f7-6bd6a99a204e">
 
-<img width="521" alt="Coil holder with wires" src="https://github.com/user-attachments/assets/2defe3e6-04e5-464a-8716-030058336e87">
+<img width="998" alt="Coil holder with wires" src="https://github.com/user-attachments/assets/f63312f5-ba97-4c33-8e38-28b9935bb610">
