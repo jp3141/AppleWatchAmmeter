@@ -11,3 +11,6 @@ In this demonstration, a 6-turn coil can easily show curent changes of about 10 
 
 
 <img width="483" alt="Watch Ammeter" src="https://github.com/user-attachments/assets/7a0e5de4-8679-49e0-82f7-6bd6a99a204e">
+
+<img width="630" alt="Watch Ammeter winding frame" src="https://github.com/user-attachments/assets/0a09424d-a807-4526-8fa3-dc72502a79d3">
+
