@@ -7,9 +7,9 @@ This demonstration uses a coil of wire around the watch to alter the magnetic fi
 
 An app could easily be written to perform some calibration and zero offset as well as display current in Amperes. however nearly any app that can display raw magnetometer data can be used. I use 'Sensor-App' which is free.
 
-In this demonstration, a 6-turn coil can easily show curent changes of about 10 mA.
+In this demonstration, a 5-turn coil can easily show curent changes of about 10 mA.
 
-The Earth's background magnetic field is around 60 uT (not only in a North-South direction). With a 6-turn winding, each 1 A generates an additional ~ 100 uT in the Z direction; there is some noise in the readings, but with care, 10 mA (1 uT) changes can be discerned.
+The Earth's background magnetic field is around 60 uT (not only in a North-South direction). With a 5-turn winding, each 1 A generates an additional ~ 100 uT in the Z direction; there is some noise in the readings, but with care, 10 mA (1 uT) changes can be discerned.
 
 <img width="483" alt="Watch Ammeter" src="https://github.com/user-attachments/assets/7a0e5de4-8679-49e0-82f7-6bd6a99a204e">
 
