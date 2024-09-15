@@ -11,8 +11,7 @@ In this demonstration, a 5-turn coil can show curent changes of about 10 mA (abo
 
 The Earth's background magnetic field is around 60 uT (not only in a North-South direction). With a 5-turn winding, each 1 A generates an additional ~ 100 uT in the Z direction; there is some noise in the readings, but with care, 10 mA (1 uT) changes can be discerned. The Z-axis readings change linearly with current (either positive or negative), but also with nearby magnetic objects, so try not to move those as you make readings. Here's a chart of Z-Axis reading vs. current in a 5-turn coil. It's extremely linear:
 
-![Apple Watch 5 44 mm Ammeter Chart](https://github.com/user-attachments/assets/4cb8e060-b12a-40df-8ab7-e9eea1688b61)
-
+![Apple Watch 5 40 mm Ammeter Chart](https://github.com/user-attachments/assets/2575610a-2364-4d2b-a11c-fe0d345674cc)
 
 <img width="483" alt="Watch Ammeter" src="https://github.com/user-attachments/assets/7a0e5de4-8679-49e0-82f7-6bd6a99a204e">
 
